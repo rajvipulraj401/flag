@@ -1,11 +1,7 @@
-Absolutely! Here's the updated README.MD file for your GoBananas project:
+**# Flag**
 
-**# GoBananas**
-
-This is the assignment for GoBananas
+This is the assignment for Flag
 
 ## Live Demo
 
-See GoBananas in action! Visit the live demo below:
-
-**[GoBananas](https://666591c4ca7ec3bd72ede832--grand-buttercream-657068.netlify.app/)**
+**[Flag](https://666591c4ca7ec3bd72ede832--grand-buttercream-657068.netlify.app/)**
